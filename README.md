@@ -11,13 +11,12 @@ Paste your links on each line into the delete-links.txt file and run the delete 
 When you receive an NFT worth 0.003 ETH from my [NFT collection](https://opensea.io/PiDigits), I will forward the files. Telegram : @sezginyil
 
 # OpenSea Tools Folder Details
-
-├── assets
-│   ├── MetaMask.crx
-│   ├── delete-links.txt
-│   ├── password.txt
-│   ├── private_key.txt
-│   └── recovery_phrase.txt
-├── delete.py
-├── like.py
-└── requirements.txt
+    ├── assets
+    │   ├── MetaMask.crx
+    │   ├── delete-links.txt
+    │   ├── password.txt
+    │   ├── private_key.txt
+    │   └── recovery_phrase.txt
+    ├── delete.py
+    ├── like.py
+    └── requirements.txt
